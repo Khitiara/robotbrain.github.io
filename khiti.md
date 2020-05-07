@@ -3,6 +3,16 @@ layout: default
 title:  Khiti & Serah Matoya
 permalink: /khiti
 ---
+<body>
+    <div id="left" class="column">
+        <div class="top-left"></div>
+        <div class="bottom"></div>
+    </div>
+    <div id="right" class="column">
+        <div class="top-right">
+# Khiti and Serah Matoya
+        </div>
+        <div class="bottom">
 - Khiti and Serah Matoya born Keeper of the Moon twins in one of the small parts of Meracydia that is still habitable
 - Khiti has species dysphoria, finds a shady source of Fantasia, and begins working her way backwards through her Zelda-esque trading quest to get it
 - Khiti starts building a boat in secret to bail on Meracydia after she gets her fantasia.
@@ -16,6 +26,8 @@ permalink: /khiti
 - Khiti picks up arcanum when the arcanist guild is the first place she passes, and stars the FFXIV:ARR MSQ.
 - Serah wanders north frorm Vesper Bay and ends up in Gridania, where she picks up conjury and starts doing the MSQ on her end.
 - The two are reunited at the Waking Sands after a bunch of near-misses and go through the MSQ from that point on together.
-- Post-heavensward, Senah goes into semi-retirement and comes back in 4.3-4.4 as scions start to get taken
-- Senah gets taken with Alisaie after Ghimlyt and Khiti gets real antsy during the wait from 4.55 to 5.0
-- Khiti reunites with now-older Senah at the crystalline mean in 5.0, Khiti spending the overwhelming majority of her free time in the First to stay with Senah
+- Post-heavensward, Serah goes into semi-retirement and comes back in 4.3-4.4 as scions start to get taken
+- Serah gets taken with Alisaie after Ghimlyt and Khiti gets real antsy during the wait from 4.55 to 5.0
+- Khiti reunites with now-older Serah at the crystalline mean in 5.0, Khiti spending the overwhelming majority of her free time in the First to stay with Serah</div>
+    </div>
+</body>
