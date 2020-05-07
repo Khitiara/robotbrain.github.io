@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  Khiti & Serah Matoya
 permalink: /khiti
 ---
