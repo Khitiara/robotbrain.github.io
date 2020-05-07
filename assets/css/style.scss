@@ -3,11 +3,23 @@
 
 @import "{{ site.theme }}";
 body {
+    height: 100%;
+    overflow: hidden;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.outer-cols {
     height: 100%;   
+    width: 100%;
     overflow: hidden;  /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
     margin: 0px;  /*removes default style*/
     display: flex;  /*enables flex content for its children*/
     box-sizing: border-box;
+}
+
+.inner {
+    max-width: 100%;
 }
 
 .column {
@@ -17,11 +29,22 @@ body {
 }
 
 #left {
+    position: fixed;
+    max-width: 540px;
+}
+
+#right {
     flex-shrink: 0;  /*makes sure that content is not cut off in a smaller browser window*/
+    margin-left: 580px;
+}
+
+img#khiti-img {
+    max-width: 100%;
+    height: auto;
 }
 
 .top-left {
-    flex-shink: 0;
+    flex-shrink: 0;
 }
 
 .top-right {
@@ -31,7 +54,7 @@ body {
 
 ul {
     display: inline-flex;
-    list-style: none;
+    flex-direction: column;
 }
 
 .bottom {
