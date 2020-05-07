@@ -16,3 +16,6 @@ permalink: /khiti
 - Khiti picks up arcanum when the arcanist guild is the first place she passes, and stars the FFXIV:ARR MSQ.
 - Serah wanders north frorm Vesper Bay and ends up in Gridania, where she picks up conjury and starts doing the MSQ on her end.
 - The two are reunited at the Waking Sands after a bunch of near-misses and go through the MSQ from that point on together.
+- Post-heavensward, Senah goes into semi-retirement and comes back in 4.3-4.4 as scions start to get taken
+- Senah gets taken with Alisaie after Ghimlyt and Khiti gets real antsy during the wait from 4.55 to 5.0
+- Khiti reunites with now-older Senah at the crystalline mean in 5.0, Khiti spending the overwhelming majority of her free time in the First to stay with Senah
